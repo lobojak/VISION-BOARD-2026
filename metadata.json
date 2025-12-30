@@ -1,0 +1,7 @@
+{
+  "name": "VISIÓN 2026",
+  "description": "A shared goal tracking application for couples with a premium Glassmorphism aesthetic.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
